@@ -1,0 +1,1 @@
+print("Simple Interest : ",(int(input("Enter principle"))*float(input("Enter ROI"))*float(input("Enter Time")))/100)

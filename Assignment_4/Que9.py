@@ -1,0 +1,1 @@
+print("Volume of Cuboid : ",int(input("Enter Length"))*int(input("Enter Breadth"))*int(input("Enter Height")))

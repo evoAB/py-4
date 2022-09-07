@@ -1,0 +1,1 @@
+print("Area of Circle :",2*3.14*int(input("Enter radius : ")))

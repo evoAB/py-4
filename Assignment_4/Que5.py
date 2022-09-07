@@ -1,0 +1,1 @@
+print("Square of number : ",int(input("Enter number : "))**2)

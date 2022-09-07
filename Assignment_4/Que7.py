@@ -1,0 +1,1 @@
+print("Average of Three numbers : ",(int(input("Enter First number"))+int(input("Enter Second number"))+int(input("Enter Third number")))/3)
